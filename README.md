@@ -1,8 +1,10 @@
 # Very short description of the package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/savannabits/movesms.svg?style=flat-square)](https://packagist.org/packages/savannabits/movesms)
-[![Build Status](https://img.shields.io/travis/savannabits/movesms/master.svg?style=flat-square)](https://travis-ci.com/savannabits/movesms)
-[![Quality Score](https://img.shields.io/scrutinizer/g/savannabits/movesms.svg?style=flat-square)](https://scrutinizer-ci.com/g/savannabits/movesms)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/savannabits/movesms)
+![Travis (.com) Build](https://img.shields.io/travis/com/savannabits/movesms/main?label=travis-ci)
+![Scrutinizer code quality](https://img.shields.io/scrutinizer/quality/g/savannabits/movesms/main)
+![Scrutinizer build ](https://img.shields.io/scrutinizer/build/g/savannabits/movesms/main?label=scrutnizer-build)
 [![Total Downloads](https://img.shields.io/packagist/dt/savannabits/movesms.svg?style=flat-square)](https://packagist.org/packages/savannabits/movesms)
 
 The PHP SDK for Movetech Solutions' Bulk SMS API (Movesms). See their [Bulk SMS API](https://developers.movesms.co.ke/start.html) for more details.
