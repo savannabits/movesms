@@ -19,7 +19,7 @@ composer require savannabits/movesms
 
 ### Required API Params:
 * username -	Your account Username
-* api_key -	Your API Key XzrqpEZ578xw2h1g3eZsDOtpztPt894mUtPdRRcNfkGaCqidX0
+* api_key -	Your API Key
 * sender -	Your Sender ID
 * to -	Your Recipients separated by commas
 * message -	Your Text Message
