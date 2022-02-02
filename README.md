@@ -1,4 +1,4 @@
-# Very short description of the package
+# Laravel / PHP Movesms
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/savannabits/movesms.svg?style=flat-square)](https://packagist.org/packages/savannabits/movesms)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/savannabits/movesms)
@@ -7,7 +7,7 @@
 ![Scrutinizer build ](https://img.shields.io/scrutinizer/build/g/savannabits/movesms/main?label=scrutnizer-build)
 [![Total Downloads](https://img.shields.io/packagist/dt/savannabits/movesms.svg?style=flat-square)](https://packagist.org/packages/savannabits/movesms)
 
-The PHP SDK for Movetech Solutions' Bulk SMS API (Movesms). See their [Bulk SMS API](https://developers.movesms.co.ke/start.html) for more details.
+The Laravel / PHP SDK for Movetech Solutions' Bulk SMS API (Movesms). See their [Bulk SMS API](https://developers.movesms.co.ke/start.html) for more details.
 
 ## Installation
 
@@ -82,7 +82,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 If you discover any security related issues, please email maosa.sam@gmail.com instead of using the issue tracker.
 
 ## Credits
-
 - [Sam Maosa](https://github.com/savannabits)
 - [All Contributors](../../contributors)
 
